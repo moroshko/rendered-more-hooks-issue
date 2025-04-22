@@ -1,6 +1,5 @@
 import { PropsWithChildren } from "react";
 import { Providers } from "./components/Providers/Providers";
-import "./globals.css";
 
 export default function RootLayout({ children }: PropsWithChildren) {
   return (

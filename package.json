@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack -p 3123",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -17,8 +17,6 @@
     "typescript": "5.8.3",
     "@types/bun": "1.2.10",
     "@types/react": "19.1.2",
-    "@types/react-dom": "19.1.2",
-    "@tailwindcss/postcss": "4.1.4",
-    "tailwindcss": "4.1.4"
+    "@types/react-dom": "19.1.2"
   }
 }
