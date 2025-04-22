@@ -7,8 +7,7 @@ bun i
 bun dev
 ```
 
-Visit http://localhost:3000 and you should see the error:
+Visit http://localhost:3000 and you should see the error below.
+Check "Preserve log" in the DevTools to see the error before it disappears.
 
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/db3b85fe-7864-4676-9940-f6298a85af4c" />
-
-
